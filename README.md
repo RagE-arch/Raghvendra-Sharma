@@ -1,2 +1,6 @@
 # Raghvendra-Sharma
 DESC- A modern, responsive personal resume website for Raghvendra Sharma, a BBA (Digital Business and Entrepreneurship) student at IIM Bangalore. Built with HTML5 and CSS3, featuring a minimalist IIMB-inspired design, elegant typography, interactive navigation, and dedicated sections for education, professional experience, skills, achievements, leadership, interests, and contact information.
+
+Raghvendra Sharma
+Roll no.- 26121006
+Sem- 1st , First year.
